@@ -24,3 +24,21 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.full-header {
+  text-align: center;
+  border: 5px solid red;
+}
+
+.text-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  gap: 52px;
+  border: 3px solid green;
+}
+
+.img {
+  width: 200px;
+  border: 3px solid blue;
+}
